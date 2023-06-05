@@ -33,5 +33,5 @@ jobs:
         uses: actions/upload-artifact@v3
         if: always()
         with:
-          name: REST Assured & TestNG report
+          name: REST Assured report
           path: target/surefire-reports
