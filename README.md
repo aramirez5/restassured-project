@@ -1,3 +1,14 @@
+<p align="center">
+  <img alt="Selenium" src="https://qaautomationexpert.files.wordpress.com/2021/05/image-103.png?w=615">
+</p>
+
+
+[![Java Version](https://img.shields.io/badge/Java-8%2B-blue.svg)](https://www.java.com)
+[![Maven](https://img.shields.io/badge/Maven-3.8.7-blue.svg)](https://maven.apache.org/)
+[![RestAssured](https://img.shields.io/badge/RestAssured-5.3.0-green.svg)](https://rest-assured.io/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 # What is restassured-project ?
 
 This is a sample project that uses the RestAssured library to perform API testing in Java. RestAssured is a high-level Java API testing library that simplifies and speeds up the process of integration and functionality testing of APIs.
