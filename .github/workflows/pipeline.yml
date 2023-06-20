@@ -116,6 +116,9 @@ jobs:
     runs-on: ubuntu-latest
     name: tests
     steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
       - name: Run REST Assured test
         run: mvn test -Dtest=CreateBookingTest.java
 
