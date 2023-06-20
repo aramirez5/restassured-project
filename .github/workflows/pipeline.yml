@@ -39,7 +39,7 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: myapp.war
-          path: ./target/myapp*
+          path: ./myapp*
 
   analyze:
     name: analyze
